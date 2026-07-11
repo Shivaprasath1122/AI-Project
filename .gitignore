@@ -2,7 +2,7 @@
 *.sc
 *.tf
 
-
+echo "demo/" >> .gitignore
 
 
 
